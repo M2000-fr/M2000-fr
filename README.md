@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi, I'm Maxime 👋
+
+- 🎓 Student at [École 42](https://profile.intra.42.fr/users/mechard)
+- 💻 Passionate about programming (C, C++, Docker, Web, etc.)
+- 🚀 Currently working on [Inception](https://github.com/Mechard-Organization/Projects/tree/main/In_progress/Inception) and [ft_transcendence](https://github.com/Mechard-Organization/Ft_transcendence/tree/main)
+- 🌍 Traveler : 🇯🇵 Japan | Philippines 🇵🇭 | Spain 🇪🇸 | Germany 🇩🇪 | Andora 🇦🇩 | England 🇬🇧
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M2000-fr&layout=compact&theme=dark)
 
 <!--
 **M2000-fr/M2000-fr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
