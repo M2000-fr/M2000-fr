@@ -4,8 +4,6 @@
     <p align="center">Salut, je suis Maxime 👋</p>
 </div>
 
-
-
 - 🎓 Étudiant à [École 42](https://profile.intra.42.fr/users/mechard)  
 - 💻 Passionné par la programmation (C, C++, Docker, Web, etc.)  
 - 🚀 Actuellement en train de travailler sur [Inception](https://github.com/Mechard-Organization/Projects/tree/main/In_progress/Inception) et [ft_transcendence](https://github.com/Mechard-Organization/Ft_transcendence/tree/main)  
