@@ -10,11 +10,6 @@
   <a href="./README.jp.md">🇯🇵 日本語</a>
 </p>
 
----
-
-## About me (English version)
-Here you can write your intro in English...
-
 <!--
 **M2000-fr/M2000-fr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
