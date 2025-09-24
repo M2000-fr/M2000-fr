@@ -1,9 +1,8 @@
 <div>
     <p align="center">
     <a href="https://github.com/M2000-fr"><img src="mechard_42.png" alt="Maxime ECHARD" width="400">
-  </div>
-
-# Salut, je suis Maxime 👋
+    # Salut, je suis Maxime 👋
+</div>
 
 - 🎓 Étudiant à [École 42](https://profile.intra.42.fr/users/mechard)  
 - 💻 Passionné par la programmation (C, C++, Docker, Web, etc.)  
