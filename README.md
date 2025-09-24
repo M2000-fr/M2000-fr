@@ -1,3 +1,19 @@
+<h1 align="center">👋 Welcome to my GitHub Profile</h1>
+
+<p align="center">
+  🌍 Available in:
+</p>
+
+<p align="center">
+  <a href="./README.fr.md">🇫🇷 Français</a> • 
+  <a href="./README.md">🇬🇧 English</a> • 
+  <a href="./README.jp.md">🇯🇵 日本語</a>
+</p>
+
+---
+
+## About me (English version)
+Here you can write your intro in English...
 
 <!--
 **M2000-fr/M2000-fr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
