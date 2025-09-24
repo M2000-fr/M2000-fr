@@ -1,6 +1,6 @@
 <div>
-    <p align="center"><strong>Maxime ECHARD</strong></p>
-    <a href="https://github.com/M2000-fr"><img src="mechard_42.png" alt="Maxime ECHARD" width="1200">
+    <p align="center">
+    <a href="https://github.com/M2000-fr"><img src="mechard_42.png" alt="Maxime ECHARD" width="1000">
   </div>
 
 # Salut, je suis Maxime 👋
