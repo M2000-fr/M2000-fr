@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="./README.fr.md">🇫🇷 Français</a> • 
-  <a href="./README.md">🇬🇧 English</a> • 
+  <a href="./README.en.md">🇬🇧 English</a> • 
   <a href="./README.jp.md">🇯🇵 日本語</a>
 </p>
 
