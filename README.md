@@ -14,7 +14,7 @@
 </p>
 <p align="center">
     📚 Parcours étudiant / Student journey / 学生旅行:  
-    - <a href="https://github.com/Mechard-Organization/42_Paris">42 Paris</a>
+      - <a href="https://github.com/Mechard-Organization/42_Paris">42 Paris</a>
 </p>
 
 <!--
