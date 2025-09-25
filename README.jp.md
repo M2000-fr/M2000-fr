@@ -1,7 +1,7 @@
 <div>
     <p align="center">
     <a href="https://github.com/M2000-fr"><img src="mechard_42.png" alt="Maxime ECHARD" width="400">
-    <p align="center">こんにちは、マキシムです 👋</p>
+    <p align="center">👋 私のGitHubプロフィールへようこそ</p>
 </div>
 
 # こんにちは、マキシムです 👋
