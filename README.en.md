@@ -1,12 +1,12 @@
 <div>
+    <h1 align="center">👋 Welcome to my GitHub Profile</h1>
     <p align="center">
-    👋 Welcome to my GitHub Profile
-    <a href="https://github.com/M2000-fr"><img src="mechard_42.png" alt="Maxime ECHARD" width="400">
+    <a href="https://github.com/M2000-fr"><img src="mechard_42.png" alt="Maxime ECHARD" width="400"></a></p>
 </div>
 
 <br></br>
 
-# Hi, I'm Maxime 👋
+ <h2 align="center">Hi, I'm Maxime 👋</h2>
 
 - 🎓 Student at [École 42](https://profile.intra.42.fr/users/mechard)
 - 💻 Passionate about programming (C, C++, Docker, Web, etc.)
