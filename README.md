@@ -12,6 +12,10 @@
   <a href="./README.en.md">🇬🇧 English</a> • 
   <a href="./README.jp.md">🇯🇵 日本語</a>
 </p>
+<p align="center">
+    📚 Parcours étudiant / Student journey / 学生旅行:  
+    - [42 Paris](https://github.com/Mechard-Organization/42_Paris)
+</p>
 
 <!--
 **M2000-fr/M2000-fr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
