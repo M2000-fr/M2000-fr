@@ -4,7 +4,11 @@
     <p align="center">👋 Welcome to my GitHub Profile</p>
 </div>
 
+<br></br>
+
 # Hi, I'm Maxime 👋
+
+<br></br>
 
 - 🎓 Student at [École 42](https://profile.intra.42.fr/users/mechard)
 - 💻 Passionate about programming (C, C++, Docker, Web, etc.)
