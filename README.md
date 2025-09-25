@@ -1,11 +1,10 @@
 <div>
     <p align="center">
     <a href="https://github.com/M2000-fr"><img src="mechard_42.png" alt="Maxime ECHARD" width="400">
-    <p align="center">👋 Welcome to my GitHub Profile</p>
 </div>
 
 <p align="center">
-  🌍 Available in:
+  🌍 Disponible en / Available in / で利用可能:
 </p>
 
 <p align="center">
