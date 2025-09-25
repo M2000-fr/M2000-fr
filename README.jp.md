@@ -13,4 +13,6 @@
 - 🚀 現在取り組んでいるプロジェクト: [Inception](https://github.com/Mechard-Organization/Projects/tree/main/In_progress/Inception) と [ft_transcendence](https://github.com/Mechard-Organization/Ft_transcendence/tree/main)  
 - 🌍 旅行好き : 🇯🇵 日本 | 🇵🇭 フィリピン | 🇪🇸 スペイン | 🇩🇪 ドイツ | 🇦🇩 アンドラ | 🇬🇧 イギリス  
 
+---
+
 ![Top Langs](https://github-readme-stats-perso-phi.vercel.app/api/top-langs/?username=M2000-fr&layout=compact&theme=dark&include_orgs=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&count_private=true)
