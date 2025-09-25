@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats-perso-phi.vercel.app/api/top-langs/?username=M2000-fr&layout=compact&theme=dark&include_orgs=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&count_private=true" alt="Top Langs">
+  <img src="https://github-readme-stats-perso-five.vercel.app/api/top-langs/?username=M2000-fr&cache_seconds=60&v=3&include_forks=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER&exclude_repo=github-readme-stats-perso&locale=fr" alt="Top Langs">
 </p>
 
 ---
