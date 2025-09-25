@@ -12,9 +12,8 @@
   <a href="./README.en.md">🇬🇧 English</a> • 
   <a href="./README.jp.md">🇯🇵 日本語</a>
 </p>
-<p align="center">
-    📚 Parcours étudiant / Student journey / 学生旅行:  
-      - <a href="https://github.com/Mechard-Organization/42_Paris">42 Paris</a>
+  <p align="center">📚 Parcours étudiant / Student journey / 学生旅行:</p>  
+  <p align="center"><a href="https://github.com/Mechard-Organization/42_Paris">42 Paris</a></p>
 </p>
 
 <!--
