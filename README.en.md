@@ -1,6 +1,6 @@
 <div>
     <p align="center">
-    <p align="center">👋 Welcome to my GitHub Profile</p>
+    👋 Welcome to my GitHub Profile
     <a href="https://github.com/M2000-fr"><img src="mechard_42.png" alt="Maxime ECHARD" width="400">
 </div>
 
