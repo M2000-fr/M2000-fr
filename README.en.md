@@ -17,4 +17,6 @@
 
 <br></br>
 
+---
+
 ![Top Langs](https://github-readme-stats-perso-phi.vercel.app/api/top-langs/?username=M2000-fr&layout=compact&theme=dark&include_orgs=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&count_private=true)
