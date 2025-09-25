@@ -1,10 +1,12 @@
 <div>
+    <h1 align="center">👋 私のGitHubプロフィールへようこそ</h1>
     <p align="center">
-    <a href="https://github.com/M2000-fr"><img src="mechard_42.png" alt="Maxime ECHARD" width="400">
-    <p align="center">👋 私のGitHubプロフィールへようこそ</p>
+    <a href="https://github.com/M2000-fr"><img src="mechard_42.png" alt="Maxime ECHARD" width="400"></a></p>
 </div>
 
-# こんにちは、マキシムです 👋
+<br></br>
+
+ <h2 align="center">こんにちは、マキシムです 👋</h2>
 
 - 🎓 [École 42](https://profile.intra.42.fr/users/mechard) の学生  
 - 💻 プログラミングが大好き (C, C++, Docker, Web など)  
