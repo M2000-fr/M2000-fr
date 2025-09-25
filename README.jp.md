@@ -8,7 +8,7 @@
 
  <h2 align="center">こんにちは、マキシムです 👋</h2>
 
-- 🎓 [École 42](https://profile.intra.42.fr/users/mechard) の学生
+- 🎓 [École 42](https://profile.intra.42.fr/users/mechard) の学生  
   ↳ 私の[学生生活](https://github.com/Mechard-Organization/42_Paris)の完全なGitHub 📚
 - 💻 プログラミングが大好き (C, C++, Docker, Web など)  
 - 🚀 現在取り組んでいるプロジェクト: [Inception](https://github.com/Mechard-Organization/Projects/tree/main/In_progress/Inception) と [ft_transcendence](https://github.com/Mechard-Organization/Ft_transcendence/tree/main)  
