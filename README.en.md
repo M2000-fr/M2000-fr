@@ -9,7 +9,7 @@
  <h2 align="center">Hi, I'm Maxime 👋</h2>
 
 - 🎓 Student at [École 42](https://profile.intra.42.fr/users/mechard)  
-  ↳ The complete GitHub of my [student journey](https://github.com/Mechard-Organization/42_Paris) 🎓💻
+  ↳ 📚 The complete GitHub of my [student journey](https://github.com/Mechard-Organization/42_Paris)
 - 💻 Passionate about programming (C, C++, Docker, Web, etc.)
 - 🚀 Currently working on [Inception](https://github.com/Mechard-Organization/Projects/tree/main/In_progress/Inception) and [ft_transcendence](https://github.com/Mechard-Organization/Ft_transcendence/tree/main)
 - 🌍 Traveler : 🇯🇵 Japan | Philippines 🇵🇭 | Spain 🇪🇸 | Germany 🇩🇪 | Andora 🇦🇩 | England 🇬🇧
