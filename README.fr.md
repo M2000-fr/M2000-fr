@@ -1,7 +1,7 @@
 <div>
     <p align="center">
     <a href="https://github.com/M2000-fr"><img src="mechard_42.png" alt="Maxime ECHARD" width="400">
-    <p align="center">Salut, je suis Maxime 👋</p>
+    <p align="center">👋 Bienvenue sur mon profil GitHub</p>
 </div>
 
 - 🎓 Étudiant à [École 42](https://profile.intra.42.fr/users/mechard)  
