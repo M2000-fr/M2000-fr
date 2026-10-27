@@ -33,7 +33,6 @@
     </td>
   </tr>
 </table>
-<p align="center"><sub>5段階の仮評価です。自分の判断で更新できます。GitHubの言語別統計はコード量であり、習熟度ではありません。</sub></p>
 <!-- PROFILE_SKILL_TREE_END -->
 
 <h1 align="center">👋 はじめまして、マキシムです！</h1>

@@ -33,7 +33,6 @@
     </td>
   </tr>
 </table>
-<p align="center"><sub>Mes estimations provisoires sur 5 étoiles, à remplacer par mes propres évaluations. Les statistiques GitHub indiquent la présence de code, pas le niveau de maîtrise.</sub></p>
 <!-- PROFILE_SKILL_TREE_END -->
 
 <h1 align="center">👋 Salut, moi c'est Maxime !</h1>

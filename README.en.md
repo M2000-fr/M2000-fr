@@ -33,7 +33,6 @@
     </td>
   </tr>
 </table>
-<p align="center"><sub>Provisional five-star ratings to replace with my own self-assessments. GitHub language statistics reflect code volume, not proficiency.</sub></p>
 <!-- PROFILE_SKILL_TREE_END -->
 
 <h1 align="center">👋 Hey, I'm Maxime!</h1>
