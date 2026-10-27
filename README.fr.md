@@ -11,25 +11,28 @@
 </p>
 
 <!-- PROFILE_SKILL_TREE_START: replace only this block to adjust skill ratings -->
-<table align="center">
-  <tr>
-    <td width="50%" valign="center" align="center">
-      <img src="https://github-readme-stats-perso-five.vercel.app/api/top-langs/?username=M2000-fr&amp;layout=compact&amp;theme=dark&amp;cache_seconds=60&amp;v=3&amp;include_forks=true&amp;count_private=true&amp;role=OWNER,ORGANIZATION_MEMBER&amp;exclude_repo=github-readme-stats-perso&amp;locale=fr" alt="Statistiques GitHub de mes langages les plus utilisés" width="340">
-    </td>
-    <td width="50%" valign="center" align="center">
-      <table>
-          <tr><td><code>C</code></td><td align="right" nowrap>⭐⭐⭐⭐☆ </td></tr>
-          <tr><td><code>C++</code></td><td align="right" nowrap>⭐⭐⭐☆☆ </td></tr>
-          <tr><td><code>JavaScript</code></td><td align="right" nowrap>⭐⭐⭐☆☆ </td></tr>
-          <tr><td><code>TypeScript</code></td><td align="right" nowrap>⭐⭐⭐☆☆ </td></tr>
-          <tr><td><code>HTML</code></td><td align="right" nowrap>⭐⭐⭐⭐☆ </td></tr>
-          <tr><td><code>CSS</code></td><td align="right" nowrap>⭐⭐⭐☆☆ </td></tr>
-          <tr><td><code>Shell / Zsh</code></td><td align="right" nowrap>⭐⭐⭐⭐☆ </td></tr>
-          <tr><td><code>Assembly (NASM)</code></td><td align="right" nowrap>⭐⭐☆☆☆ </td></tr>
-      </table>
-    </td>
-  </tr>
-</table>
+<details>
+  <summary><strong>🎲 Bonus : mes statistiques GitHub</strong></summary>
+  <table align="center">
+    <tr>
+      <td width="50%" valign="center" align="center">
+        <img src="https://github-readme-stats-perso-five.vercel.app/api/top-langs/?username=M2000-fr&amp;layout=compact&amp;theme=dark&amp;cache_seconds=60&amp;v=3&amp;include_forks=true&amp;count_private=true&amp;role=OWNER,ORGANIZATION_MEMBER&amp;exclude_repo=github-readme-stats-perso&amp;locale=fr" alt="Statistiques GitHub de mes langages les plus utilisés" width="340">
+      </td>
+      <td width="50%" valign="center" align="center">
+        <table>
+            <tr><td><code>C</code></td><td align="right" nowrap>⭐⭐⭐⭐☆ </td></tr>
+            <tr><td><code>C++</code></td><td align="right" nowrap>⭐⭐⭐☆☆ </td></tr>
+            <tr><td><code>JavaScript</code></td><td align="right" nowrap>⭐⭐⭐☆☆ </td></tr>
+            <tr><td><code>TypeScript</code></td><td align="right" nowrap>⭐⭐⭐☆☆ </td></tr>
+            <tr><td><code>HTML</code></td><td align="right" nowrap>⭐⭐⭐⭐☆ </td></tr>
+            <tr><td><code>CSS</code></td><td align="right" nowrap>⭐⭐⭐☆☆ </td></tr>
+            <tr><td><code>Shell / Zsh</code></td><td align="right" nowrap>⭐⭐⭐⭐☆ </td></tr>
+            <tr><td><code>Assembly (NASM)</code></td><td align="right" nowrap>⭐⭐☆☆☆ </td></tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
 <!-- PROFILE_SKILL_TREE_END -->
 
 <h1 align="center">👋 Salut, moi c'est Maxime !</h1>
