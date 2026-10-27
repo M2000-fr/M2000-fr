@@ -132,7 +132,7 @@
 <p align="center">
   <a href="https://github.com/Mechard-Organization/42_Paris">🎓 42 Parisのプロジェクト</a> &nbsp;·&nbsp;
   <a href="https://github.com/M2000-fr">💻 GitHubプロフィール</a> &nbsp;·&nbsp;
-  <a href="./README.md">🌍 別の言語を選ぶ</a>
+  <a href="https://m2000-fr.github.io/M2000-fr/">🌍 別の言語を選ぶ</a>
 </p>
 
 <p align="center">

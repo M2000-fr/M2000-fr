@@ -132,7 +132,7 @@ J'aime voyager, changer d'horizon et rapporter des idées plein la tête. Mes av
 <p align="center">
   <a href="https://github.com/Mechard-Organization/42_Paris">🎓 Mes projets 42 Paris</a> &nbsp;·&nbsp;
   <a href="https://github.com/M2000-fr">💻 Mon GitHub</a> &nbsp;·&nbsp;
-  <a href="./README.md">🌍 Choisir une autre langue</a>
+  <a href="https://m2000-fr.github.io/M2000-fr/">🌍 Choisir une autre langue</a>
 </p>
 
 <p align="center">

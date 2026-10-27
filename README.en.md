@@ -132,7 +132,7 @@ I enjoy traveling, seeing new places, and coming home with a head full of ideas.
 <p align="center">
   <a href="https://github.com/Mechard-Organization/42_Paris">🎓 My 42 Paris projects</a> &nbsp;·&nbsp;
   <a href="https://github.com/M2000-fr">💻 My GitHub</a> &nbsp;·&nbsp;
-  <a href="./README.md">🌍 Choose another language</a>
+  <a href="https://m2000-fr.github.io/M2000-fr/">🌍 Choose another language</a>
 </p>
 
 <p align="center">
