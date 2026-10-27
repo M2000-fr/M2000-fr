@@ -7,33 +7,32 @@
 <a id="top"></a>
 
 <p align="center">
-  <a href="https://github.com/M2000-fr"><img src="./mechard_42.png" alt="Identité visuelle de Maxime" width="400"></a>
+  <a href="https://github.com/M2000-fr"><img src="./mechard_42.png" alt="Identité visuelle de Maxime" width="190"></a>
 </p>
 
 <!-- PROFILE_SKILL_TREE_START: replace only this block to adjust skill ratings -->
-<details>
-  <summary align="center"><strong>🎲 Mes statistiques</strong></summary>
-  <table align="center">
-    <tr>
-      <td width="50%" valign="center" align="center">
-        <img src="https://github-readme-stats-perso-five.vercel.app/api/top-langs/?username=M2000-fr&amp;layout=compact&amp;theme=dark&amp;cache_seconds=60&amp;v=3&amp;include_forks=true&amp;count_private=true&amp;role=OWNER,ORGANIZATION_MEMBER&amp;exclude_repo=github-readme-stats-perso&amp;locale=fr" alt="Statistiques GitHub de mes langages les plus utilisés" width="340">
-      </td>
-      <td width="50%" valign="center" align="center">
-        <table>
-            <tr><td><code>C</code></td><td align="right" nowrap>⭐⭐⭐⭐☆ </td></tr>
-            <tr><td><code>C++</code></td><td align="right" nowrap>⭐⭐⭐☆☆ </td></tr>
-            <tr><td><code>JavaScript</code></td><td align="right" nowrap>⭐⭐⭐☆☆ </td></tr>
-            <tr><td><code>TypeScript</code></td><td align="right" nowrap>⭐⭐⭐☆☆ </td></tr>
-            <tr><td><code>HTML</code></td><td align="right" nowrap>⭐⭐⭐⭐☆ </td></tr>
-            <tr><td><code>CSS</code></td><td align="right" nowrap>⭐⭐⭐☆☆ </td></tr>
-            <tr><td><code>Shell / Zsh</code></td><td align="right" nowrap>⭐⭐⭐⭐☆ </td></tr>
-            <tr><td><code>Assembly (NASM)</code></td><td align="right" nowrap>⭐⭐☆☆☆ </td></tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
+<table align="center">
+  <tr>
+    <td width="50%" valign="center" align="center">
+      <img src="https://github-readme-stats-perso-five.vercel.app/api/top-langs/?username=M2000-fr&amp;layout=compact&amp;theme=dark&amp;cache_seconds=60&amp;v=3&amp;include_forks=true&amp;count_private=true&amp;role=OWNER,ORGANIZATION_MEMBER&amp;exclude_repo=github-readme-stats-perso&amp;locale=fr" alt="Statistiques GitHub de mes langages les plus utilisés" width="340">
+    </td>
+    <td width="50%" valign="center" align="center">
+      <table>
+          <tr><td><code>C</code></td><td align="right" nowrap>⭐⭐⭐⭐☆ </td></tr>
+          <tr><td><code>C++</code></td><td align="right" nowrap>⭐⭐⭐☆☆ </td></tr>
+          <tr><td><code>JavaScript</code></td><td align="right" nowrap>⭐⭐⭐☆☆ </td></tr>
+          <tr><td><code>TypeScript</code></td><td align="right" nowrap>⭐⭐⭐☆☆ </td></tr>
+          <tr><td><code>HTML</code></td><td align="right" nowrap>⭐⭐⭐⭐☆ </td></tr>
+          <tr><td><code>CSS</code></td><td align="right" nowrap>⭐⭐⭐☆☆ </td></tr>
+          <tr><td><code>Shell / Zsh</code></td><td align="right" nowrap>⭐⭐⭐⭐☆ </td></tr>
+          <tr><td><code>Assembly (NASM)</code></td><td align="right" nowrap>⭐⭐☆☆☆ </td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <!-- PROFILE_SKILL_TREE_END -->
+
+---
 
 <h1 align="center">👋 Salut, moi c'est Maxime !</h1>
 
@@ -124,14 +123,6 @@ Mon univers ne s'arrête pas à `git push` ! J'adore **le Japon**, ses villes, s
 J'aime voyager, changer d'horizon et rapporter des idées plein la tête. Mes aventures m'ont notamment mené au **Japon**, aux **Philippines** et ailleurs en Europe. Et parfois, un voyage donne autant d'inspiration qu'un nouveau langage de programmation. 🌍
 
 **En résumé :** du code, de la curiosité, un soupçon de nostalgie vidéoludique et beaucoup de projets à découvrir.
-
----
-
-<details>
-  <summary><strong>🎲 Bonus : mes statistiques GitHub</strong></summary>
-  <p align="center"><img src="https://github-readme-stats-perso-five.vercel.app/api/top-langs/?username=M2000-fr&amp;layout=compact&amp;theme=dark&amp;cache_seconds=60&amp;v=3&amp;include_forks=true&amp;count_private=true&amp;role=OWNER,ORGANIZATION_MEMBER&amp;exclude_repo=github-readme-stats-perso&amp;locale=fr" alt="Mes langages les plus utilisés sur GitHub"></p>
-  <p align="center"><sub>Ces statistiques sont générées par un service externe : leur affichage dépend de sa disponibilité.</sub></p>
-</details>
 
 ---
 

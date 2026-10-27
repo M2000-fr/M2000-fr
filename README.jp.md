@@ -32,6 +32,8 @@
 </table>
 <!-- PROFILE_SKILL_TREE_END -->
 
+---
+
 <h1 align="center">👋 はじめまして、マキシムです！</h1>
 
 <p align="center">
@@ -121,14 +123,6 @@
 旅行をして、新しい景色を見て、たくさんのアイデアを持ち帰るのも楽しみです。これまでに**日本**や**フィリピン**、ヨーロッパのさまざまな場所を訪れました。旅から得られる刺激は、新しいプログラミング言語を学ぶときに負けないくらい大きいと思います。🌍
 
 **つまり：** コードと好奇心、少しのゲーム愛、そしてこれから始まるたくさんの冒険です。
-
----
-
-<details>
-  <summary><strong>🎲 ボーナスステージ：GitHubの統計</strong></summary>
-  <p align="center"><img src="https://github-readme-stats-perso-five.vercel.app/api/top-langs/?username=M2000-fr&amp;layout=compact&amp;theme=dark&amp;cache_seconds=60&amp;v=3&amp;include_forks=true&amp;count_private=true&amp;role=OWNER,ORGANIZATION_MEMBER&amp;exclude_repo=github-readme-stats-perso&amp;locale=ja" alt="GitHubでよく使っている言語"></p>
-  <p align="center"><sub>外部サービスを利用しているため、画像が表示されない場合があります。</sub></p>
-</details>
 
 ---
 

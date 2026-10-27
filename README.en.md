@@ -32,6 +32,8 @@
 </table>
 <!-- PROFILE_SKILL_TREE_END -->
 
+---
+
 <h1 align="center">👋 Hey, I'm Maxime!</h1>
 
 <p align="center">
@@ -121,14 +123,6 @@ There's more to my world than `git push`! I love **Japan** — its cities, atmos
 I enjoy traveling, seeing new places, and coming home with a head full of ideas. My adventures have taken me to **Japan**, the **Philippines**, and different parts of Europe. Sometimes a journey is just as inspiring as learning a new programming language. 🌍
 
 **In short:** code, curiosity, a dash of gaming nostalgia, and plenty more to explore.
-
----
-
-<details>
-  <summary><strong>🎲 Bonus level: my GitHub stats</strong></summary>
-  <p align="center"><img src="https://github-readme-stats-perso-phi.vercel.app/api/top-langs/?username=M2000-fr&amp;layout=compact&amp;theme=dark&amp;include_orgs=true&amp;role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&amp;count_private=true" alt="My most-used languages on GitHub"></p>
-  <p align="center"><sub>These stats come from an external service, so the widget may be unavailable sometimes.</sub></p>
-</details>
 
 ---
 
