@@ -10,6 +10,10 @@
   <a href="https://github.com/M2000-fr"><img src="./mechard_42.png" alt="マキシムのプロフィール画像" width="190"></a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats-perso-five.vercel.app/api/top-langs/?username=M2000-fr&layout=compact&theme=dark&cache_seconds=60&v=3&include_forks=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER&exclude_repo=github-readme-stats-perso&locale=fr" alt="Top Langs">
+</p>
+
 <h1 align="center">👋 はじめまして、マキシムです！</h1>
 
 <p align="center">
