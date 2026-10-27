@@ -1,15 +1,10 @@
 <p align="center">
-  <a href="./README.md">🏮 言語選択に戻る</a> &nbsp;·&nbsp;
   <a href="./README.fr.md">🇫🇷 Français</a> &nbsp;·&nbsp;
   <a href="./README.en.md">🇬🇧 English</a> &nbsp;·&nbsp;
   <strong>🇯🇵 日本語</strong>
 </p>
 
 <a id="top"></a>
-
-<p align="center">
-  <a href="./README.md"><img src="./.assets/images/profile_portal_japan_geek.png" alt="日本×ギークの世界。クリックすると言語選択ページに戻ります" width="100%"></a>
-</p>
 
 <p align="center">
   <a href="https://github.com/M2000-fr"><img src="./mechard_42.png" alt="マキシムのプロフィール画像" width="190"></a>
