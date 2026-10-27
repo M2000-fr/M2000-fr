@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#090b26">
+  <meta name="description" content="Portail multilingue de M2000-fr — Japon, programmation et univers geek.">
+  <title>🌸 M2000-fr · Choisis ton univers</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; }
+    :root { color-scheme: dark; }
+    body { margin: 0; min-height: 100svh; background: radial-gradient(circle at 50% 10%, #212057 0, #0b102d 40%, #060916 100%); font-family: system-ui, -apple-system, "Segoe UI", sans-serif; color: #eef4ff; display: grid; place-items: center; }
+    main { width: min(97vw, 1340px); padding: clamp(12px, 3vw, 34px) 0; }
+    .portal { position: relative; width: 100%; line-height: 0; overflow: hidden; border-radius: min(2vw, 22px); box-shadow: 0 16px 90px rgba(3, 5, 20, 0.8), 0 0 35px rgba(191, 74, 231, 0.22); }
+    .portal img { width: 100%; height: auto; display: block; }
+    .hotspot { position: absolute; display: block; border-radius: 1.7vw; outline-offset: -4px; transition: background-color .18s ease, box-shadow .18s ease; }
+    .hotspot:hover, .hotspot:focus-visible { background: rgba(128, 216, 253, .08); outline: 2px solid #7ee9ff; box-shadow: inset 0 0 35px rgba(73, 218, 255, .18), 0 0 18px rgba(231, 79, 219, .28); }
+    @media (prefers-reduced-motion: reduce) { .hotspot { transition: none; } }
+    /* Four clickable zones, placed over ONE original image. No slicing or visual seams. */
+    .hotspot--fr { left: 21.5031%; top: 42.3873%; width: 15.9708%; height: 28.1364%; }
+.hotspot--en { left: 42.0146%; top: 42.3873%; width: 15.9708%; height: 28.1364%; }
+.hotspot--ja { left: 62.5261%; top: 42.3873%; width: 15.9708%; height: 28.1364%; }
+.hotspot--school { left: 41.9624%; top: 71.8636%; width: 15.9708%; height: 19.6102%; }
+    .help { text-align: center; font-size: clamp(13px, 1.35vw, 16px); color: #b9c1e5; margin: 15px 0 5px; }
+    .nav { text-align: center; display:flex; justify-content:center; flex-wrap:wrap; gap: 8px 21px; font-size: 14px; padding:8px 4px; }
+    .nav a { color: #d1e9ff; text-underline-offset: 4px; }
+    .nav a:hover, .nav a:focus-visible { color: #ff9cf4; }
+  </style>
+</head>
+<body>
+ <main>
+  <div class="portal" aria-label="Bienvenue sur le portail multilingue M2000-fr">
+    <img src="./.assets/images/profile_portal_japan_geek.png" width="1916" height="821" alt="Portail Japan × Geek : Disponible en français, anglais et japonais. Accès au parcours École 42 en dessous des drapeaux.">
+    <a class="hotspot hotspot--fr" href="https://github.com/M2000-fr/M2000-fr/blob/main/README.fr.md" aria-label="Lire ma présentation en français" title="🇫🇷 Français"></a>
+    <a class="hotspot hotspot--en" href="https://github.com/M2000-fr/M2000-fr/blob/main/README.en.md" aria-label="Read my presentation in English" title="🇬🇧 English"></a>
+    <a class="hotspot hotspot--ja" href="https://github.com/M2000-fr/M2000-fr/blob/main/README.jp.md" aria-label="日本語の自己紹介を見る" title="🇯🇵 日本語"></a>
+    <a class="hotspot hotspot--school" href="https://github.com/Mechard-Organization/42_Paris" aria-label="Voir tous mes projets de 42 Paris" title="🎓 École 42"></a>
+  </div>
+  <p class="help">🌸 Clique sur un drapeau pour choisir ta langue… ou sur le 42 pour explorer mes projets !</p>
+  <nav class="nav" aria-label="Liens alternatifs accessibles">
+    <a href="https://github.com/M2000-fr/M2000-fr/blob/main/README.fr.md">🇫🇷 Français</a>
+    <a href="https://github.com/M2000-fr/M2000-fr/blob/main/README.en.md">🇬🇧 English</a>
+    <a href="https://github.com/M2000-fr/M2000-fr/blob/main/README.jp.md">🇯🇵 日本語</a>
+    <a href="https://github.com/Mechard-Organization/42_Paris">🎓 42 Paris</a>
+    <a href="https://github.com/M2000-fr">🐈 Mon GitHub</a>
+  </nav>
+ </main>
+</body>
+</html>

@@ -1,32 +1,29 @@
-<div>
-    <p align="center">
-    <a href="https://github.com/M2000-fr"><img src="mechard_42.png" alt="Maxime ECHARD" width="400">
-</div>
-
 <p align="center">
-  🌍 Disponible en / Available in / で利用可能:
+  <a href="https://m2000-fr.github.io/M2000-fr/">
+    <img src="./.assets/images/profile_portal_japan_geek.png" alt="🌍 Disponible en / Available in / で利用可能: français, English, 日本語 · 42 Paris — Ouvrir le portail interactif" width="100%">
+  </a>
 </p>
 
 <p align="center">
-  <a href="./README.fr.md">🇫🇷 Français</a> • 
-  <a href="./README.en.md">🇬🇧 English</a> • 
+  🌸 <strong>Bienvenue dans mon univers — welcome to my world — ようこそ！</strong> 🌸
+</p>
+
+<p align="center">
+  <a href="./README.fr.md">🇫🇷 Français</a> &nbsp; ✦ &nbsp;
+  <a href="./README.en.md">🇬🇧 English</a> &nbsp; ✦ &nbsp;
   <a href="./README.jp.md">🇯🇵 日本語</a>
 </p>
-  <p align="center">📚 Parcours étudiant / Student journey / 学生旅行:</p>  
-  <p align="center"><a href="https://github.com/Mechard-Organization/42_Paris">42 Paris</a></p>
+
+<p align="center">
+  <a href="https://github.com/Mechard-Organization/42_Paris">🎓 Mes aventures à 42 Paris</a>
+  &nbsp; · &nbsp;
+  <a href="https://m2000-fr.github.io/M2000-fr/">🎮 Portail interactif</a>
 </p>
 
 <!--
-**M2000-fr/M2000-fr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Le visuel ci-dessus est un SEUL PNG : aucune coupure visuelle.
+Pour que chacun des trois drapeaux et le logo 42 soit cliquable directement dans l'image,
+ouvrir le lien GitHub Pages (lien de l'image). Les zones cliquables sont définies dans index.html.
+Le README GitHub ne permet pas les zones HTML <map>/<area> ni les superpositions CSS personnalisées.
+Le domaine Pages ne fonctionnera qu'après son activation dans Settings > Pages.
 -->
