@@ -13,13 +13,10 @@
 <!-- PROFILE_SKILL_TREE_START: replace only this block to adjust skill ratings -->
 <table align="center">
   <tr>
-    <td width="50%" valign="top" align="center">
-      <strong>📊 GitHubの統計</strong><br><br>
+    <td width="50%" valign="center" align="center">
       <img src="https://github-readme-stats-perso-five.vercel.app/api/top-langs/?username=M2000-fr&amp;layout=compact&amp;theme=dark&amp;cache_seconds=60&amp;v=3&amp;include_forks=true&amp;count_private=true&amp;role=OWNER,ORGANIZATION_MEMBER&amp;exclude_repo=github-readme-stats-perso&amp;locale=ja" alt="GitHubでよく使っている言語の統計" width="340">
     </td>
-    <td width="50%" valign="top" align="center">
-      <strong>🎮 スキルツリー</strong><br>
-      <sub>仮の評価・あとで調整</sub><br><br>
+    <td width="50%" valign="center" align="center">
       <table>
           <tr><td><code>C</code></td><td align="right" nowrap>⭐⭐⭐⭐☆ </td></tr>
           <tr><td><code>C++</code></td><td align="right" nowrap>⭐⭐⭐☆☆ </td></tr>

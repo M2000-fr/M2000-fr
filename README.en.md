@@ -13,13 +13,10 @@
 <!-- PROFILE_SKILL_TREE_START: replace only this block to adjust skill ratings -->
 <table align="center">
   <tr>
-    <td width="50%" valign="top" align="center">
-      <strong>📊 My GitHub stats</strong><br><br>
+    <td width="50%" valign="center" align="center">
       <img src="https://github-readme-stats-perso-phi.vercel.app/api/top-langs/?username=M2000-fr&amp;layout=compact&amp;theme=dark&amp;include_orgs=true&amp;role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&amp;count_private=true" alt="GitHub most-used language statistics" width="340">
     </td>
-    <td width="50%" valign="top" align="center">
-      <strong>🎮 My skill tree</strong><br>
-      <sub>Draft levels · to customize</sub><br><br>
+    <td width="50%" valign="center" align="center">
       <table>
           <tr><td><code>C</code></td><td align="right" nowrap>⭐⭐⭐⭐☆ </td></tr>
           <tr><td><code>C++</code></td><td align="right" nowrap>⭐⭐⭐☆☆ </td></tr>

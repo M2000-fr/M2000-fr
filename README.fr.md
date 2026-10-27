@@ -14,12 +14,9 @@
 <table align="center">
   <tr>
     <td width="50%" valign="center" align="center">
-      <strong>📊 Mes stats GitHub</strong><br><br>
       <img src="https://github-readme-stats-perso-five.vercel.app/api/top-langs/?username=M2000-fr&amp;layout=compact&amp;theme=dark&amp;cache_seconds=60&amp;v=3&amp;include_forks=true&amp;count_private=true&amp;role=OWNER,ORGANIZATION_MEMBER&amp;exclude_repo=github-readme-stats-perso&amp;locale=fr" alt="Statistiques GitHub de mes langages les plus utilisés" width="340">
     </td>
     <td width="50%" valign="center" align="center">
-      <strong>🎮 Mon arbre de compétences</strong><br>
-      <sub>Niveaux proposés · à personnaliser</sub><br><br>
       <table>
           <tr><td><code>C</code></td><td align="right" nowrap>⭐⭐⭐⭐☆ </td></tr>
           <tr><td><code>C++</code></td><td align="right" nowrap>⭐⭐⭐☆☆ </td></tr>
