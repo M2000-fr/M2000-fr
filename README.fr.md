@@ -12,7 +12,7 @@
 
 <!-- PROFILE_SKILL_TREE_START: replace only this block to adjust skill ratings -->
 <details>
-  <summary><strong>🎲 Bonus : mes statistiques GitHub</strong></summary>
+  <summary align="center"><strong>🎲 Mes statistiques</strong></summary>
   <table align="center">
     <tr>
       <td width="50%" valign="center" align="center">
