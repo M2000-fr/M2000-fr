@@ -4,22 +4,6 @@
   </a>
 </p>
 
-<p align="center">
-  🌸 <strong>Bienvenue dans mon univers — welcome to my world — ようこそ！</strong> 🌸
-</p>
-
-<p align="center">
-  <a href="./README.fr.md">🇫🇷 Français</a> &nbsp; ✦ &nbsp;
-  <a href="./README.en.md">🇬🇧 English</a> &nbsp; ✦ &nbsp;
-  <a href="./README.jp.md">🇯🇵 日本語</a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Mechard-Organization/42_Paris">🎓 Mes aventures à 42 Paris</a>
-  &nbsp; · &nbsp;
-  <a href="https://m2000-fr.github.io/M2000-fr/">🎮 Portail interactif</a>
-</p>
-
 <!--
 Le visuel ci-dessus est un SEUL PNG : aucune coupure visuelle.
 Pour que chacun des trois drapeaux et le logo 42 soit cliquable directement dans l'image,
