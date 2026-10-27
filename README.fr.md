@@ -1,5 +1,4 @@
 <p align="center">
-  <a href="./README.md">🏮 Retour au portail</a> &nbsp;·&nbsp;
   <strong>🇫🇷 Français</strong> &nbsp;·&nbsp;
   <a href="./README.en.md">🇬🇧 English</a> &nbsp;·&nbsp;
   <a href="./README.jp.md">🇯🇵 日本語</a>
