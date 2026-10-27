@@ -7,7 +7,7 @@
 <a id="top"></a>
 
 <p align="center">
-  <a href="https://github.com/M2000-fr"><img src="./mechard_42.png" alt="Maxime's profile artwork" width="190"></a>
+  <a href="https://github.com/M2000-fr"><img src="./mechard_42.png" alt="Maxime's profile artwork" width="400"></a>
 </p>
 
 <!-- PROFILE_SKILL_TREE_START: replace only this block to adjust skill ratings -->
