@@ -21,14 +21,14 @@
       <strong>🎮 Mon arbre de compétences</strong><br>
       <sub>Niveaux proposés · à personnaliser</sub><br><br>
       <table>
-          <tr><td><code>C</code></td><td align="right" nowrap>⭐⭐⭐⭐☆ <sub>4/5</sub></td></tr>
-          <tr><td><code>C++</code></td><td align="right" nowrap>⭐⭐⭐☆☆ <sub>3/5</sub></td></tr>
-          <tr><td><code>JavaScript</code></td><td align="right" nowrap>⭐⭐⭐☆☆ <sub>3/5</sub></td></tr>
-          <tr><td><code>TypeScript</code></td><td align="right" nowrap>⭐⭐⭐☆☆ <sub>3/5</sub></td></tr>
-          <tr><td><code>HTML</code></td><td align="right" nowrap>⭐⭐⭐⭐☆ <sub>4/5</sub></td></tr>
-          <tr><td><code>CSS</code></td><td align="right" nowrap>⭐⭐⭐☆☆ <sub>3/5</sub></td></tr>
-          <tr><td><code>Shell / Zsh</code></td><td align="right" nowrap>⭐⭐⭐⭐☆ <sub>4/5</sub></td></tr>
-          <tr><td><code>Assembly (NASM)</code></td><td align="right" nowrap>⭐⭐☆☆☆ <sub>2/5</sub></td></tr>
+          <tr><td><code>C</code></td><td align="right" nowrap>⭐⭐⭐⭐☆ </td></tr>
+          <tr><td><code>C++</code></td><td align="right" nowrap>⭐⭐⭐☆☆ </td></tr>
+          <tr><td><code>JavaScript</code></td><td align="right" nowrap>⭐⭐⭐☆☆ </td></tr>
+          <tr><td><code>TypeScript</code></td><td align="right" nowrap>⭐⭐⭐☆☆ </td></tr>
+          <tr><td><code>HTML</code></td><td align="right" nowrap>⭐⭐⭐⭐☆ </td></tr>
+          <tr><td><code>CSS</code></td><td align="right" nowrap>⭐⭐⭐☆☆ </td></tr>
+          <tr><td><code>Shell / Zsh</code></td><td align="right" nowrap>⭐⭐⭐⭐☆ </td></tr>
+          <tr><td><code>Assembly (NASM)</code></td><td align="right" nowrap>⭐⭐☆☆☆ </td></tr>
       </table>
     </td>
   </tr>
