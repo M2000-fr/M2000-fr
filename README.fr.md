@@ -1,4 +1,5 @@
 <p align="center">
+  <a href="./README.md">🏮 Retour au portail</a> &nbsp;·&nbsp;
   <strong>🇫🇷 Français</strong> &nbsp;·&nbsp;
   <a href="./README.en.md">🇬🇧 English</a> &nbsp;·&nbsp;
   <a href="./README.jp.md">🇯🇵 日本語</a>
@@ -10,9 +11,31 @@
   <a href="https://github.com/M2000-fr"><img src="./mechard_42.png" alt="Identité visuelle de Maxime" width="190"></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-perso-five.vercel.app/api/top-langs/?username=M2000-fr&layout=compact&theme=dark&cache_seconds=60&v=3&include_forks=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER&exclude_repo=github-readme-stats-perso&locale=fr" alt="Top Langs">
-</p>
+<!-- PROFILE_SKILL_TREE_START: replace only this block to adjust skill ratings -->
+<table align="center">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <strong>📊 Mes stats GitHub</strong><br><br>
+      <img src="https://github-readme-stats-perso-five.vercel.app/api/top-langs/?username=M2000-fr&amp;layout=compact&amp;theme=dark&amp;cache_seconds=60&amp;v=3&amp;include_forks=true&amp;count_private=true&amp;role=OWNER,ORGANIZATION_MEMBER&amp;exclude_repo=github-readme-stats-perso&amp;locale=fr" alt="Statistiques GitHub de mes langages les plus utilisés" width="340">
+    </td>
+    <td width="50%" valign="top" align="center">
+      <strong>🎮 Mon arbre de compétences</strong><br>
+      <sub>Niveaux proposés · à personnaliser</sub><br><br>
+      <table>
+          <tr><td><code>C</code></td><td align="right" nowrap>⭐⭐⭐⭐☆ <sub>4/5</sub></td></tr>
+          <tr><td><code>C++</code></td><td align="right" nowrap>⭐⭐⭐☆☆ <sub>3/5</sub></td></tr>
+          <tr><td><code>JavaScript</code></td><td align="right" nowrap>⭐⭐⭐☆☆ <sub>3/5</sub></td></tr>
+          <tr><td><code>TypeScript</code></td><td align="right" nowrap>⭐⭐⭐☆☆ <sub>3/5</sub></td></tr>
+          <tr><td><code>HTML</code></td><td align="right" nowrap>⭐⭐⭐⭐☆ <sub>4/5</sub></td></tr>
+          <tr><td><code>CSS</code></td><td align="right" nowrap>⭐⭐⭐☆☆ <sub>3/5</sub></td></tr>
+          <tr><td><code>Shell / Zsh</code></td><td align="right" nowrap>⭐⭐⭐⭐☆ <sub>4/5</sub></td></tr>
+          <tr><td><code>Assembly (NASM)</code></td><td align="right" nowrap>⭐⭐☆☆☆ <sub>2/5</sub></td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<p align="center"><sub>Mes estimations provisoires sur 5 étoiles, à remplacer par mes propres évaluations. Les statistiques GitHub indiquent la présence de code, pas le niveau de maîtrise.</sub></p>
+<!-- PROFILE_SKILL_TREE_END -->
 
 <h1 align="center">👋 Salut, moi c'est Maxime !</h1>
 

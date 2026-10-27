@@ -1,4 +1,5 @@
 <p align="center">
+  <a href="./README.md">🏮 言語選択に戻る</a> &nbsp;·&nbsp;
   <a href="./README.fr.md">🇫🇷 Français</a> &nbsp;·&nbsp;
   <a href="./README.en.md">🇬🇧 English</a> &nbsp;·&nbsp;
   <strong>🇯🇵 日本語</strong>
@@ -10,9 +11,31 @@
   <a href="https://github.com/M2000-fr"><img src="./mechard_42.png" alt="マキシムのプロフィール画像" width="190"></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-perso-five.vercel.app/api/top-langs/?username=M2000-fr&layout=compact&theme=dark&cache_seconds=60&v=3&include_forks=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER&exclude_repo=github-readme-stats-perso&locale=fr" alt="Top Langs">
-</p>
+<!-- PROFILE_SKILL_TREE_START: replace only this block to adjust skill ratings -->
+<table align="center">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <strong>📊 GitHubの統計</strong><br><br>
+      <img src="https://github-readme-stats-perso-five.vercel.app/api/top-langs/?username=M2000-fr&amp;layout=compact&amp;theme=dark&amp;cache_seconds=60&amp;v=3&amp;include_forks=true&amp;count_private=true&amp;role=OWNER,ORGANIZATION_MEMBER&amp;exclude_repo=github-readme-stats-perso&amp;locale=ja" alt="GitHubでよく使っている言語の統計" width="340">
+    </td>
+    <td width="50%" valign="top" align="center">
+      <strong>🎮 スキルツリー</strong><br>
+      <sub>仮の評価・あとで調整</sub><br><br>
+      <table>
+          <tr><td><code>C</code></td><td align="right" nowrap>⭐⭐⭐⭐☆ <sub>4/5</sub></td></tr>
+          <tr><td><code>C++</code></td><td align="right" nowrap>⭐⭐⭐☆☆ <sub>3/5</sub></td></tr>
+          <tr><td><code>JavaScript</code></td><td align="right" nowrap>⭐⭐⭐☆☆ <sub>3/5</sub></td></tr>
+          <tr><td><code>TypeScript</code></td><td align="right" nowrap>⭐⭐⭐☆☆ <sub>3/5</sub></td></tr>
+          <tr><td><code>HTML</code></td><td align="right" nowrap>⭐⭐⭐⭐☆ <sub>4/5</sub></td></tr>
+          <tr><td><code>CSS</code></td><td align="right" nowrap>⭐⭐⭐☆☆ <sub>3/5</sub></td></tr>
+          <tr><td><code>Shell / Zsh</code></td><td align="right" nowrap>⭐⭐⭐⭐☆ <sub>4/5</sub></td></tr>
+          <tr><td><code>Assembly (NASM)</code></td><td align="right" nowrap>⭐⭐☆☆☆ <sub>2/5</sub></td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<p align="center"><sub>5段階の仮評価です。自分の判断で更新できます。GitHubの言語別統計はコード量であり、習熟度ではありません。</sub></p>
+<!-- PROFILE_SKILL_TREE_END -->
 
 <h1 align="center">👋 はじめまして、マキシムです！</h1>
 
